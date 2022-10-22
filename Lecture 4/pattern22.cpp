@@ -1,3 +1,10 @@
+/*
+    Pattern
+    1234
+     234
+      34
+       4
+*/
 #include<iostream>
 using namespace std;
 
