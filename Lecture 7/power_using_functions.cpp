@@ -1,3 +1,4 @@
+//Finding power using function
 #include <iostream>
 #include <math.h>
 using namespace std;
