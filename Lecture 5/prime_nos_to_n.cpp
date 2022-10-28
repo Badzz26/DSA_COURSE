@@ -9,7 +9,6 @@ int main() {
 
     for(int i = 2; i <= n; i++){
         bool isPrime = 1;
-        int j = 2;
         for(int j = 2; j < i; j++){
             if(i%j == 0){
                 isPrime = 0;
